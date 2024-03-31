@@ -1,0 +1,49 @@
+Epic: Game Start
+As a player,
+I want to be greeted by an engaging start screen
+So that I feel welcomed and excited to start or continue my adventure.
+
+User Story: Starting the Game
+As a player,
+I want to see options to start a new game or load an existing game from the start screen
+So that I can easily choose how I want to begin my play session.
+
+User Story: Game Loading
+As a player,
+I want to load my previous game progress
+So that I can continue my adventure from where I left off.
+
+User Story: New Game
+As a player,
+I want to start a new game and select a character
+So that I can experience the game from the perspective of my chosen character archetype.
+
+Epic: Character Selection
+As a player,
+I want to choose from a variety of characters with different abilities and backgrounds
+So that I can enjoy a gameplay style that matches my preferences.
+
+User Story: Character Information
+As a player,
+I want to view detailed information about each character before making a selection
+So that I can make an informed decision based on their backstory, skills, and gameplay style.
+
+User Story: Character Customization
+As a player,
+I want to customize my character's appearance and initial skill set
+So that I feel a personal connection and a sense of ownership over my game experience.
+
+Epic: Save/Load Feature
+As a player
+I want to save my game at any point
+So that I can stop playing anytime and resume later without losing progress.
+
+User Story: Easy Save
+As a player,
+I want a simple and quick way to save my game
+So that I'm encouraged to save often and prevent progress loss.
+
+User Story: Multiple Save Slots
+As a player,
+I want multiple save slots
+So that I can manage different gameplays or share the game with others on the same device.
